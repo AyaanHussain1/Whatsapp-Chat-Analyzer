@@ -1,0 +1,9 @@
+# Chat exports contain private conversation data - never commit these
+_chat.txt
+*.txt
+!requirements.txt
+!stop_english.txt
+
+__pycache__/
+*.pyc
+.git/
